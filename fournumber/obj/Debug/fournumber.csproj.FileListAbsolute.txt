@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Lazutin\practica24ИС11-1\fournumber\fournumber\bin\Debug\fournumber.exe.config
+C:\Users\user\Desktop\Lazutin\practica24ИС11-1\fournumber\fournumber\bin\Debug\fournumber.exe
+C:\Users\user\Desktop\Lazutin\practica24ИС11-1\fournumber\fournumber\bin\Debug\fournumber.pdb
+C:\Users\user\Desktop\Lazutin\practica24ИС11-1\fournumber\fournumber\obj\Debug\fournumber.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Lazutin\practica24ИС11-1\fournumber\fournumber\obj\Debug\fournumber.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lazutin\practica24ИС11-1\fournumber\fournumber\obj\Debug\fournumber.exe
+C:\Users\user\Desktop\Lazutin\practica24ИС11-1\fournumber\fournumber\obj\Debug\fournumber.pdb
